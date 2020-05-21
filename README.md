@@ -1,4 +1,4 @@
-# Fake-streaming-status-for-Discord
+# fake-streaming-status-for-discord
 This is originally coded by DayZoonHD, I just fixed it.
 ------------------------------------------------------
 add these two pakages to "pakage.json" : "discord.js" and "Discord"
